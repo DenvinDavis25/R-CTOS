@@ -1,4 +1,6 @@
-# R-CTOS
+# R - ctos
+## _Real-time cloths tryon system
+A flask application that allows user to try upper cloths from any shopping website by using opencv library from python. 
 You first need manually clone or download the repository and install all the libraries from requirements.txt.
 ```sh
 $ pip install -r requirements.txt
@@ -26,3 +28,5 @@ In the try-on page of our site you have to upload the image there and after sele
 
 After clicking the upload button yo will see the page where actual real time cloth try-on is being done and on this screen you will be able to see how the will look on you and after that you can by that cloth if it looks good on you.
 ![image](https://user-images.githubusercontent.com/86234577/164491098-2bd6c91f-7313-4e83-85f6-c2b91a055f4b.png)
+
+
